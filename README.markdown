@@ -19,6 +19,9 @@ Usage
 * Create a Google calendar.
 * Import the generated `eurofilmfest.ics` file.
 
+The imported calendar can be found at 
+https://www.google.com/calendar/embed?src=jp0qve10ohl5s09ponb34h6sds%40group.calendar.google.com&ctz=Asia/Bangkok
+
 Dependencies
 ------------
 
