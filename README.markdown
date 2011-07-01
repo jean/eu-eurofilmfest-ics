@@ -1,5 +1,5 @@
-Calendar for the European Film Festival 2011
-============================================
+Calendar for the European Film Festival, Thailand, 2011
+=======================================================
 
 I like to be able to set reminders for the films I'm interested in, 
 and the HTML version of the program doesn't allow this. 
